@@ -1,24 +1,29 @@
 # 代理补充列表
 
 #Mylist
-DOMAIN-SUFFIX,github.io   #Github
-DOMAIN-SUFFIX,raw.githubusercontent.com   #Github
+#Github
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,raw.githubusercontent.com
 DOMAIN,dash.cloudflare.com
 DOMAIN-SUFFIX,spacedock.info
 DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,redm.gg
 DOMAIN-SUFFIX,fivem.net
-DOMAIN-SUFFIX,bing.com   #必应
-DOMAIN-SUFFIX,bing.net   #必应
-DOMAIN,cn.bing.com   #必应
-DOMAIN,sydney.bing.com   #必应AI
-DOMAIN-SUFFIX,onedrive.live.com   #OneDrive网盘
-DOMAIN-SUFFIX,login.live.com   #OneDrive网盘
-DOMAIN,mypikpak.com   #PikPak官网
-DOMAIN,api-drive.mypikpak.com   #PikPak官网
-DOMAIN,config.mypikpak.com   #PikPak官网
-DOMAIN,user.mypikpak.com   #PikPak官网
-DOMAIN,access.mypikpak.com   #PikPak官网
+#必应
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,bing.net
+DOMAIN,cn.bing.com
+#必应AI
+DOMAIN,sydney.bing.com
+#OneDrive网盘
+DOMAIN-SUFFIX,onedrive.live.com
+DOMAIN-SUFFIX,login.live.com
+#PikPak官网
+DOMAIN,mypikpak.com
+DOMAIN,api-drive.mypikpak.com
+DOMAIN,config.mypikpak.com
+DOMAIN,user.mypikpak.com
+DOMAIN,access.mypikpak.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
