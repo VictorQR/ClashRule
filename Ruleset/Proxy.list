@@ -24,6 +24,7 @@ DOMAIN,api-drive.mypikpak.com
 DOMAIN,config.mypikpak.com
 DOMAIN,user.mypikpak.com
 DOMAIN,access.mypikpak.com
+DOMAIN-SUFFIX,pinet.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,qichiyu.com
