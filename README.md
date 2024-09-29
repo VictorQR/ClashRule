@@ -1,2 +1,3 @@
 # ClashRule
-自用Clash规则
+
+自用Clash.Meta规则
