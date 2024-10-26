@@ -10,6 +10,7 @@ DOMAIN,emby.prpr.cn.com
 DOMAIN-SUFFIX,ubi.com
 DOMAIN-SUFFIX,avatars.ubisoft.com
 #Epic下载
+DOMAIN,cloudflare.epicgamescdn.com
 DOMAIN,epicgames-download1.akamaized.net
 DOMAIN,epicgames-download1-1251447533.file.myqcloud.com
 DOMAIN,download.epicgames.com
