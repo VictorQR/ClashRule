@@ -1,6 +1,9 @@
 # 代理补充列表
 
 #Mylist
+#漫威争锋国际服
+DOMAIN-SUFFIX,marvelrivals.163.com
+DOMAIN-SUFFIX,marvelrivals.res.netease.com
 #Github
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,raw.githubusercontent.com
