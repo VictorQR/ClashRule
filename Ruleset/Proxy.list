@@ -4,9 +4,9 @@
 #漫威争锋国际服
 DOMAIN,marvelrivals.163.com
 DOMAIN,marvelrivals.res.netease.com
-DOMAIN,timejs.game.163.com
-DOMAIN,nie.res.netease.com
-DOMAIN,bee.tc.netease.com
+#DOMAIN,timejs.game.163.com
+#DOMAIN,nie.res.netease.com
+#DOMAIN,bee.tc.netease.com
 #Github
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,raw.githubusercontent.com
