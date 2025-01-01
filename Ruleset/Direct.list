@@ -19,8 +19,9 @@ DOMAIN,egdownload.fastly-edge.com
 #威联通NAS
 DOMAIN-SUFFIX,myqnapcloud.cn
 #PSN
-DOMAIN-SUFFIX,playstation.net
-DOMAIN-SUFFIX,playstation.com
+#DOMAIN-SUFFIX,playstation.net
+#DOMAIN-SUFFIX,playstation.com
+#DOMAIN-SUFFIX,playstationnetwork.com
 #Xbox
 DOMAIN-SUFFIX,xboxlive.com
 #EA游戏下载
@@ -328,9 +329,6 @@ DOMAIN-SUFFIX,sohurdc.com
 DOMAIN-SUFFIX,v-56.com
 
 # Sony
-#DOMAIN-SUFFIX,playstation.com
-#DOMAIN-SUFFIX,playstation.net
-#DOMAIN-SUFFIX,playstationnetwork.com
 #DOMAIN-SUFFIX,sony.com
 #DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 
