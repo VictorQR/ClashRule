@@ -1,7 +1,8 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
-##DOMAIN-SUFFIX,mypikpak.com#PikPak下载
+#PikPak下载
+DOMAIN-SUFFIX,dl-a10b-1196.mypikpak.com
 #EMBY
 DOMAIN,emby.prpr.cn.com
 #育碧游戏下载
