@@ -1,4 +1,7 @@
-#Steam漫威争锋区服判定
-#DOMAIN,cmp3-hkg1.steamserver.net
-
-DOMAIN,www.google.com
+#PikPak代理
+DOMAIN,sg-thumbnail-drive.mypikpak.com
+DOMAIN,config.mypikpak.com
+DOMAIN,api-drive.mypikpak.com
+DOMAIN,user.mypikpak.com
+DOMAIN,static.mypikpak.com
+DOMAIN,rcv5-sp.mypikpak.com
