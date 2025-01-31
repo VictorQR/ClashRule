@@ -57,6 +57,7 @@ DOMAIN,cache6-hkg1.steamcontent.com
 DOMAIN,cache7-hkg1.steamcontent.com
 DOMAIN,cache8-hkg1.steamcontent.com
 DOMAIN,cache9-hkg1.steamcontent.com
+DOMAIN,cache10-hkg1.steamcontent.com
 DOMAIN,cache1-tyo3.steamcontent.com
 DOMAIN,cache2-tyo3.steamcontent.com
 DOMAIN,cache3-tyo3.steamcontent.com
@@ -66,6 +67,7 @@ DOMAIN,cache6-tyo3.steamcontent.com
 DOMAIN,cache7-tyo3.steamcontent.com
 DOMAIN,cache8-tyo3.steamcontent.com
 DOMAIN,cache9-tyo3.steamcontent.com
+DOMAIN,cache10-tyo3.steamcontent.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
