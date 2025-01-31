@@ -48,6 +48,15 @@ DOMAIN,ext2-sgp1.steamserver.net
 DOMAIN,ext3-sgp1.steamserver.net
 DOMAIN,ext4-sgp1.steamserver.net
 DOMAIN,ext2-lax1.steamserver.net
+DOMAIN,cache1-hkg1.steamcontent.com
+DOMAIN,cache2-hkg1.steamcontent.com
+DOMAIN,cache3-hkg1.steamcontent.com
+DOMAIN,cache4-hkg1.steamcontent.com
+DOMAIN,cache5-hkg1.steamcontent.com
+DOMAIN,cache6-hkg1.steamcontent.com
+DOMAIN,cache7-hkg1.steamcontent.com
+DOMAIN,cache8-hkg1.steamcontent.com
+DOMAIN,cache9-hkg1.steamcontent.com
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,time.windows.com
