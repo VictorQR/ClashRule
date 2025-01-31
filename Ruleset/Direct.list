@@ -48,6 +48,12 @@ DOMAIN,ext2-sgp1.steamserver.net
 DOMAIN,ext3-sgp1.steamserver.net
 DOMAIN,ext4-sgp1.steamserver.net
 DOMAIN,ext2-lax1.steamserver.net
+DOMAIN,cmp1-tyo3.steamserver.net
+DOMAIN,cmp2-tyo3.steamserver.net
+DOMAIN,cmp3-tyo3.steamserver.net
+DOMAIN,cmp1-hkg1.steamserver.net
+DOMAIN,cmp2-hkg1.steamserver.net
+DOMAIN,cmp3-hkg1.steamserver.net
 DOMAIN,cache1-hkg1.steamcontent.com
 DOMAIN,cache2-hkg1.steamcontent.com
 DOMAIN,cache3-hkg1.steamcontent.com
