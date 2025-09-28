@@ -2,12 +2,6 @@
 
 🎯 一套为 [Clash.Meta](https://github.com/MetaCubeX/Clash.Meta) 量身打造的个人自用规则集，旨在与主流规则互补，实现更精细化的网络流量管理。
 
-<p align="center">
-    <img src="https://img.shields.io/github/last-commit/VictorQR/ClashRule?style=for-the-badge&logo=github&label=最后提交" alt="最后提交">
-    <img src="https://img.shields.io/github/repo-size/VictorQR/ClashRule?style=for-the-badge&logo=github&label=仓库大小" alt="仓库大小">
-    <img src="https://img.shields.io/github/license/VictorQR/ClashRule?style=for-the-badge&label=许可证" alt="许可证">
-</p>
-
 ---
 
 ## 📖 关于此仓库
