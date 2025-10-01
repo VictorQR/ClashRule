@@ -1,4 +1,7 @@
-#PikPak代理
+# 前置代理规则
+# 优化说明: 整合所有 PikPak 相关规则于此，确保最高匹配优先级。
+
+# PikPak
 DOMAIN,sg-thumbnail-drive.mypikpak.com
 DOMAIN,config.mypikpak.com
 DOMAIN,api-drive.mypikpak.com
@@ -6,3 +9,4 @@ DOMAIN,user.mypikpak.com
 DOMAIN,static.mypikpak.com
 DOMAIN,rcv5-sp.mypikpak.com
 DOMAIN,access.mypikpak.com
+

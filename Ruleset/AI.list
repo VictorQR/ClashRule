@@ -1,8 +1,11 @@
-# 内容：OpenAi Bard anthropic
+# AI 服务规则
+# 规则内容: OpenAi, Bard, Claude, Perplexity 等
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,Claude
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,perplexity.ai
 DOMAIN-SUFFIX,chatgpt.com
@@ -23,4 +26,6 @@ DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,gemini.google.com
 DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
-DOMAIN-SUFFIX,claude.ai.com
+# 修正域名
+DOMAIN-SUFFIX,claude.ai
+
