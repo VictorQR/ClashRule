@@ -18,8 +18,12 @@ DOMAIN,ipv4.egdownload.fastly-edge.com
 DOMAIN,egdownload.fastly-edge.com
 # 威联通 NAS
 DOMAIN-SUFFIX,myqnapcloud.cn
-# PSN 下载
-DOMAIN-SUFFIX,dl.playstation.net
+# PlayStation Network (PSN)
+# 解决PSN登录、商店访问、好友服务和下载问题
+DOMAIN-SUFFIX,sony.com
+DOMAIN-SUFFIX,playstation.com
+DOMAIN-SUFFIX,playstation.net
+DOMAIN-SUFFIX,sonyentertainmentnetwork.com
 # Xbox
 DOMAIN-SUFFIX,xboxlive.com
 # EA 游戏下载
